@@ -7,3 +7,6 @@ Introduction of the basic concepts in Python.
 
 ## Homework
 Assignment used for the practical part.
+
+## References
+You can find the material of the whole course here: https://github.com/Py101
